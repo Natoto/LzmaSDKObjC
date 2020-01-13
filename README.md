@@ -37,7 +37,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target '<REPLACE_WITH_YOUR_TARGET>' do
-    pod 'LzmaSDK-ObjC', :inhibit_warnings => true
+	pod 'LzmaSDKObjC',:git=>'https://github.com/Natoto/LzmaSDKObjC.git',:commit=>'81229c3826649470f7cabaa2308c370b8962dc63'
 end
 ```
 
