@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "LzmaSDKObjC"
+  s.name             = "HBLzmaSDKObjC"
   s.version          = "2.1.1"
   s.summary          = "Lzma SDK for Objective-C based on extended functionality of the C++ LZMA code"
   s.description      = <<-DESC
